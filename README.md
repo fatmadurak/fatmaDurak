@@ -6,7 +6,7 @@
 - 🔭 I’m currently developing **React** and **Redux** projects
 
 - 🌱 I’m currently learning **Frontend techs**
-- 🌱 I’m currently learning **Frontend techs** and **React**
+- 🌱 I’m currently learning **UI** and **UX Design**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap,SCSS, TailwindCSS, JavaScript**
 
