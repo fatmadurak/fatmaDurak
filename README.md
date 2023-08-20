@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frontend techs**
 - 🌱 I’m currently learning **UI** and **UX Design**
-
+- 🌱 Netlfy designs ** https://fatmadurak-mercansoftwebsite.netlify.app/**
 - 💬 Ask me about **HTML, CSS, Bootstrap,SCSS, TailwindCSS, JavaScript**
 
 - 📫 How to reach me **fatmabadillidurak@gmail.com**
