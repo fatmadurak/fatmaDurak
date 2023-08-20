@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frontend techs**
 - 🌱 I’m currently learning **UI** and **UX Design**
-- 🌱website application links:
+- 🌱 **Website Application Links:**
 - **https://fatmadurak-mercansoftwebsite.netlify.app/**
 - **https://responsive-homepage-fatmadurak.netlify.app/**
 - **https://website-fatmadurak.netlify.app//**
