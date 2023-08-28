@@ -37,8 +37,5 @@
  <a href="https://trello.com/en" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="40" height="40"/> </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a>
 
-
 </p>
-
-
 
