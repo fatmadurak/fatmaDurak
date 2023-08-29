@@ -6,7 +6,10 @@
 
 - 🌱 I’m currently learning **Frontend techs**
 - 🌱 I’m currently learning **UI** and **UX Design**
-- 🌱 **Website Application Links:**
+
+- 🌱 I’m currently developing this project:**https://fatmadurak-e-commerceapp.netlify.app/**
+
+-   - 🌱 **Website Application Links:**
 - **https://fatmadurak-mercansoftwebsite.netlify.app/**
 - **https://responsive-homepage-fatmadurak.netlify.app/**
 - **https://website-fatmadurak.netlify.app//**
