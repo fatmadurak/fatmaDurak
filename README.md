@@ -13,9 +13,8 @@
 - **https://fatmadurak-mercansoftwebsite.netlify.app/**
 - **https://responsive-homepage-fatmadurak.netlify.app/**
 - **https://website-fatmadurak.netlify.app//**
-- **https://ayakkabidunyasi-fatmadurak.netlify.app/**
 - **https://todoapp-fatmadurak.netlify.app/**
-- **https://e-commerce-fatmadurak.netlify.app/**
+
 - 💬 Ask me about **HTML, CSS, Bootstrap,SCSS, TailwindCSS, JavaScript**
 
 - 📫 How to reach me **fatmabadillidurak@gmail.com**
