@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning **Front-end techs**
 - 🌱 I’m currently learning **UI** and **UX Design**
 - 🌱 **Website Application Links:**
-- **https://bilet-al-zeogs.vercel.app/**
 - **https://movie-phi-swart.vercel.app/**
 - **https://fatmadurak-e-commerceapp.netlify.app/**
 - **https://fatmadurak-mercansoftwebsite.netlify.app/**
